@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MittagLeffleR",
+    "oncran": true
+  }
+]
